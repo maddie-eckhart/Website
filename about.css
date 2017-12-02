@@ -1,0 +1,52 @@
+.Pic {
+    height: 30px;
+    width: 30px;
+}
+
+/* HEADER */
+html, body {
+    /* Normalize */
+    margin: 0;
+    padding: 0;
+    background: #ececec;
+    overflow-x: hidden;
+  }
+  
+  .header {
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-size: 15pt;
+    display: inline-block;
+    width: 100%;
+    margin: 0;
+    padding: 3.75pt;
+    padding-left: 15pt;
+    padding-right: 4pt;
+    /*  MENU WILL FOLLOW AS YOU SCROLL position: fixed; */
+    z-index: 9000;
+    box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, .6);
+    background-color: rgb(56, 87, 35)
+  }
+  .header .header-menu {
+      display: inline-block;
+  }
+
+  ul li{
+    display: inline;
+    padding: 10pt;
+    font-size: 14pt;
+  }
+  
+  ul {
+      display: inline-block;
+  }
+  h2 {
+      display: inline-block;
+  }
+  body {
+      color: rgb(228, 75, 14);
+      height: 100%;
+      width: 100%;
+      
+  }
+  
