@@ -1,12 +1,13 @@
 .Pic {
     padding: 50pt;
     width: 450px;
-    float: left;
+    display: inline-block;
 }
 
 .Bio {
-    float: right;
-    padding-top: 100pt;
+    display: inline-block;
+    position: relative;
+    top: -110px;
     max-width: 40%;
 }
 /* HEADER */
