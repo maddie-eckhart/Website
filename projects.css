@@ -1,13 +1,13 @@
-.Pic {
+.planet-image {
     padding: 50pt;
-    width: 450px;
     float: left;
 }
-
-.Bio {
+.planet-desc {
+    display: inline block;
     float: right;
-    padding-top: 100pt;
+    padding-top: 80pt;
     max-width: 40%;
+    
 }
 /* HEADER */
 html, body {
