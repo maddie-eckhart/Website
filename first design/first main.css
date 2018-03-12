@@ -1,0 +1,12 @@
+body {
+    color: rgb(228, 75, 14);
+	height: 100%;
+    width: 100%;
+    background-image: url("http://cdn.abclocal.go.com/content/creativecontent/images/cms/419244_1280x720.jpg")
+}
+
+h1 {
+  color: darkolivegreen;
+	font-size: 3rem;
+  font-family: Palatino, 'Palatino     Linotype', serif;
+}
